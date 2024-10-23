@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @charlotte-BH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in security things
+- 🌱 I’m currently learning security things
+- 💞️ I’m looking to collaborate on security things
 - 📫 How to reach me ... find me on Slack!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: if you whisper to an Alexa device, it will whisper back
 
 <!---
 charlotte-BH/charlotte-BH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
